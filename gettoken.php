@@ -9,7 +9,7 @@
       CURLOPT_HTTP_VERSION => CURL_HTTP_VERSION_1_1,
       CURLOPT_CUSTOMREQUEST => "POST",
       CURLOPT_HTTPHEADER => array(
-        "Authorization: Token O:NUEtWeHzQ$Y7H-H/TLQvO3KMLzYpYPTKOtLJaZJT:N+L^HTA6A7S3V:HASGxOdXZW|CnCjK:L0HqWACWQKINW:LeV/WlCsK8",
+        "Authorization: Token OeB@M?PhFkFVPnG8M4T;L^HMQEG=RWX^MLMaQNRZXrFzW3KjN@Y$VCOoAsOYOSB6PqJ:C~E$W|J:PzDoW;K9E@ZL4FXG6VUFRK:",
         "Content-Type: application/json"
       ),
     ));
